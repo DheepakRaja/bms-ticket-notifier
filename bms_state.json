@@ -6,7 +6,7 @@
       "date": "20260730",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "PVPZ|35968|20260730|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -14,7 +14,7 @@
       "date": "20260730",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "3"
+      "status": "0"
     }
   },
   "dates": {
