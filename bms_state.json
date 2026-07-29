@@ -1,26 +1,26 @@
 {
   "shows": {
-    "PVPZ|35968|20260730|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:10 PM",
-      "date": "20260730",
-      "cat": "ELITE",
+    "PGMV|21038|20260801|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
+      "date": "20260801",
+      "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
-    "PVPZ|35968|20260730|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:10 PM",
-      "date": "20260730",
-      "cat": "BUDGET",
+    "PGMV|21038|20260801|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
+      "date": "20260801",
+      "cat": "CLASSIC",
       "price": "61.74",
       "status": "0"
     }
   },
   "dates": {
-    "20260730": "BOOKABLE",
+    "20260730": "AVAILABLE",
     "20260731": "AVAILABLE",
-    "20260801": "AVAILABLE",
+    "20260801": "BOOKABLE",
     "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
