@@ -14,7 +14,7 @@
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63942|20260801|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -54,7 +54,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "PGMV|21038|20260801|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -62,16 +62,16 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "0"
+      "status": "3"
     }
   },
   "dates": {
-    "20260731": "AVAILABLE",
     "20260801": "BOOKABLE",
     "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
-    "20260806": "AVAILABLE"
+    "20260806": "AVAILABLE",
+    "20260807": "NOT_OPEN"
   }
 }
