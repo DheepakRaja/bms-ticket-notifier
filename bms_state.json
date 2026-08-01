@@ -1,21 +1,5 @@
 {
   "shows": {
-    "INPR|63941|20260801|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "INPR|63941|20260801|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
     "INPR|63942|20260801|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
       "time": "12:30 PM",
@@ -47,22 +31,6 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "0"
-    },
-    "PGMV|21038|20260801|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:10 AM",
-      "date": "20260801",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PGMV|21038|20260801|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:10 AM",
-      "date": "20260801",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "3"
     }
   },
   "dates": {
